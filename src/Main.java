@@ -12,6 +12,7 @@ public class Main {
             // 按 Ctrl+D 开始调试代码。我们已为您设置了一个断点，
             // 但您始终可以通过按 Cmd+F8 添加更多断点。
             System.out.println("i = " + i);
+            System.out.println("123");
         }
     }
 }

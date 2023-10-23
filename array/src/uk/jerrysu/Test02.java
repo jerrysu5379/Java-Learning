@@ -1,5 +1,7 @@
 package uk.jerrysu;
 
+import java.util.Arrays;
+
 public class Test02 {
     public static void main(String[] args) {
         User[] users = new User[3];
@@ -18,6 +20,7 @@ public class Test02 {
         for(User user:user2){
             System.out.println(user);
         }
+        System.out.println(Arrays.toString(users));
     }
 }
 

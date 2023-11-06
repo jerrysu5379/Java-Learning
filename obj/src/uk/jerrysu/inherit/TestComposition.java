@@ -7,6 +7,7 @@ public class TestComposition {
         System.out.println(stu.person.name);
         System.out.println(stu.person.height);
         System.out.println(stu.major);
+
     }
 }
 class Stu{
